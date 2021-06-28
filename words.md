@@ -1,0 +1,79 @@
+# 1. English Words
+
+| Word                                                          | Type      | Explanation                                                  |
+| :------------------------------------------------------------ | :-------- | :----------------------------------------------------------- |
+| [acceleration](https://fanyi.baidu.com/#en/zh/acceleration)   | n         | 加速，加速度                                                 |
+| [acyclic](https://fanyi.baidu.com/#en/zh/acyclic)             | adj       | 非循环的，无环的                                             |
+| [adopt](https://fanyi.baidu.com/#en/zh/adopt)                 | v         | 收养，采用，采取，正式通过                                   |
+| [aggregation](https://fanyi.baidu.com/#en/zh/aggregation)     | n         | 聚集，集合                                                   |
+| [aid](https://fanyi.baidu.com/#en/zh/aid)                     | v         | 援助，帮助                                                   |
+| [appropriate](https://fanyi.baidu.com/#en/zh/appropriate)     | adj/v     | 合适的/盗用，占用                                            |
+| [associate](https://fanyi.baidu.com/#en/zh/associate)         | v/adj/n   | 联系/非正式的，有关联的/同事，伙伴                           |
+| [assumption](https://fanyi.baidu.com/#en/zh/assumption)       | n         | 假定，担任                                                   |
+| [bound](https://fanyi.baidu.com/#en/zh/bound)                 | adj/v/n   | 一定会，受..约束，有义务/跳跃着跑，形成..界限/跳跃，限制范围 |
+| [collisions](https://fanyi.baidu.com/#en/zh/collisions)       | n         | 碰撞，冲突，抵触                                             |
+| [commodity](https://fanyi.baidu.com/#en/zh/commodity)         | n         | 商品，有用的东西                                             |
+| [compromise](https://fanyi.baidu.com/#en/zh/compromise)       | n/v       | 妥协/折中，让步                                              |
+| [concept](https://fanyi.baidu.com/#en/zh/concept)             | n         | 概念，观念                                                   |
+| [conformance](https://fanyi.baidu.com/#en/zh/conformance)     | n         | 一致性                                                       |
+| [constraint](https://fanyi.baidu.com/#en/zh/constraint)       | n         | 限制，约束                                                   |
+| [convention](https://fanyi.baidu.com/#en/zh/convention)       | n         | 习俗，常规，协议                                             |
+| [deterministic](https://fanyi.baidu.com/#en/zh/deterministic) | adj       | 决定论的，确定的                                             |
+| [dictate](https://fanyi.baidu.com/#en/zh/dictate)             | v/n       | 摆布，决定/命令，规定                                        |
+| [dimension](https://fanyi.baidu.com/#en/zh/dimension)         | n         | 维度，尺寸，规模，程度，范围                                 |
+| [distinguish](https://fanyi.baidu.com/#en/zh/distinguish)     | v         | 区分，辨别，认出，听出                                       |
+| [distribute](https://fanyi.baidu.com/#en/zh/distribute)       | v         | 分发，分布，分散                                             |
+| [diverse](https://fanyi.baidu.com/#en/zh/diverse)             | adj       | 不同的，多种多样的                                           |
+| [efficiency](https://fanyi.baidu.com/#en/zh/efficiency)       | n         | 效率，功效                                                   |
+| [eliminate](https://fanyi.baidu.com/#en/zh/eliminate)         | v         | 排除，消除，淘汰，消灭                                       |
+| [explicit](https://fanyi.baidu.com/#en/zh/explicit)           | adj       | 清晰地，明确的，坦率地                                       |
+| [exploit](https://fanyi.baidu.com/#en/zh/exploit)             | v/n       | 利用，开发，开采/功劳                                        |
+| [flexible](https://fanyi.baidu.com/#en/zh/flexible)           | adj       | 灵活的，可变动的，有弹性的，可弯曲的                         |
+| [formalize](https://fanyi.baidu.com/#en/zh/formalize)         | v         | 使..成为正式的，使定形                                       |
+| [fundamentally](https://fanyi.baidu.com/#en/zh/fundamentally) | adv       | 根本地，完全地                                               |
+| [gradient](https://fanyi.baidu.com/#en/zh/gradient)           | n         | 坡度，斜率，变化率，梯度                                     |
+| [identical](https://fanyi.baidu.com/#en/zh/identical)         | adj       | 完全同样的，相同的                                           |
+| [indeterminate](https://fanyi.baidu.com/#en/zh/indeterminate) | adj       | 模糊的，不确定的                                             |
+| [intend](https://fanyi.baidu.com/#en/zh/intend)               | v         | 打算，计划，想要                                             |
+| [intermediate](https://fanyi.baidu.com/#en/zh/intermediate)   | adj/n     | 中间的，中级的/中级学生                                      |
+| [landscape](https://fanyi.baidu.com/#en/zh/landscape)         | n/v       | 风景，景色/对...做美化                                       |
+| [mandatory](https://fanyi.baidu.com/#en/zh/mandatory)         | adj       | 强制的，法定的，义务的                                       |
+| [manner](https://fanyi.baidu.com/#en/zh/manner)               | n         | 方式，方法，举止，态度，礼仪                                 |
+| [methodology](https://fanyi.baidu.com/#en/zh/methodology)     | n         | 方法，原则                                                   |
+| [normalization](https://fanyi.baidu.com/#en/zh/normalization) | n         | 正规化，归一化                                               |
+| [objective](https://fanyi.baidu.com/#en/zh/objective)         | n/adj     | 目标，目的/客观的，基于事实的                                |
+| [opaque](https://fanyi.baidu.com/#en/zh/opaque)               | adj/n     | 不透明的，难懂的/不透明，晦暗                                |
+| [originator](https://fanyi.baidu.com/#en/zh/originator)       | n         | 发起者，创始人                                               |
+| [overhead](https://fanyi.baidu.com/#en/zh/overhead)           | adv/adj/n | 在空中/头上方的，高架的，经费的/经常开支                     |
+| [parallelism](https://fanyi.baidu.com/#en/zh/parallelism)     | n         | 相似，并行化，平行                                           |
+| [perspective](https://fanyi.baidu.com/#en/zh/perspective)     | n         | 观点，视角，透视图，思考方法                                 |
+| [portability](https://fanyi.baidu.com/#en/zh/Portability)     | n         | 可移植性，可携带                                             |
+| [potentially](https://fanyi.baidu.com/#en/zh/potentially)     | adv       | 潜在的，可能的                                               |
+| [practical](https://fanyi.baidu.com/#en/zh/practical)         | adj/n     | 实际的，有用的，客观存在的，切实可行的/实习课，实践课        |
+| [precision](https://fanyi.baidu.com/#en/zh/precision)         | n         | 精度，精确                                                   |
+| [presence](https://fanyi.baidu.com/#en/zh/presence)           | n         | 在场，出席，存在                                             |
+| [preserve](https://fanyi.baidu.com/#en/zh/preserve)           | v/n       | 保护，保留，保养，保鲜/专门领域，泡菜                        |
+| [primitive](https://fanyi.baidu.com/#en/zh/primitive)         | adj/n     | 原始的，远古的，落后的/原始派作家或作品                      |
+| [property](https://fanyi.baidu.com/#en/zh/property)           | n         | 所有物，财产，性能，道具                                     |
+| [proscribe](https://fanyi.baidu.com/#en/zh/proscribe)         | n         | 宣布禁止                                                     |
+| [rationale](https://fanyi.baidu.com/#en/zh/rationale)         | n         | 基本原理，根本原因                                           |
+| [regard](https://fanyi.baidu.com/#en/zh/regard)               | v/n       | 看待，把..视为/注意，关注                                    |
+| [relevant](https://fanyi.baidu.com/#en/zh/relevant)           | adj       | 相关的，确切的，有意义的                                     |
+| [retrieve](https://fanyi.baidu.com/#en/zh/retrieve)           | v         | 取回，检索，重新得到                                         |
+| [rigorous](https://fanyi.baidu.com/#en/zh/rigorous)           | adj       | 谨慎的，细致的，彻底的，严格的                               |
+| [significantly](https://fanyi.baidu.com/#en/zh/significantly) | adv       | 显著地，明显地，有重大意义地                                 |
+| [specialized](https://fanyi.baidu.com/#en/zh/specialized)     | adj/v     | 专用的/专门研究                                              |
+| [specification](https://fanyi.baidu.com/#en/zh/specification) | n         | 规格，规范，说明书                                           |
+| [statement](https://fanyi.baidu.com/#en/zh/statement)         | n         | 说明，声明，报告                                             |
+| [technique](https://fanyi.baidu.com/#en/zh/technique)         | n         | 技巧，技艺，工艺                                             |
+| [threshold](https://fanyi.baidu.com/#en/zh/threshold)         | n         | 门槛，门口，阈值，起点                                       |
+| [unique](https://fanyi.baidu.com/#en/zh/unique)               | adj       | 唯一的，独一无二的                                           |
+| [vary](https://fanyi.baidu.com/#en/zh/vary)                   | v         | 变化，不同，有别                                             |
+| [via](https://fanyi.baidu.com/#en/zh/via)                     | prep      | 经由，经过，通过，凭借                                       |
+| [vision](https://fanyi.baidu.com/#en/zh/vision)               | n         | 视力，视野，想象                                             |
+| [whereas](https://fanyi.baidu.com/#en/zh/whereas)             | n         | 然而，鉴于                                                   |
+
+<!--
+| [](https://fanyi.baidu.com/#en/zh/) | | |
+undefined
+-->
